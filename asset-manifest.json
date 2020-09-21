@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sik_music_2020/static/css/main.a8d4e993.chunk.css",
-    "main.js": "/sik_music_2020/static/js/main.d415c174.chunk.js",
-    "main.js.map": "/sik_music_2020/static/js/main.d415c174.chunk.js.map",
-    "runtime-main.js": "/sik_music_2020/static/js/runtime-main.6351956d.js",
-    "runtime-main.js.map": "/sik_music_2020/static/js/runtime-main.6351956d.js.map",
-    "static/js/2.91194b7e.chunk.js": "/sik_music_2020/static/js/2.91194b7e.chunk.js",
-    "static/js/2.91194b7e.chunk.js.map": "/sik_music_2020/static/js/2.91194b7e.chunk.js.map",
-    "index.html": "/sik_music_2020/index.html",
-    "precache-manifest.36251efdd13b59394746870c5559c9e3.js": "/sik_music_2020/precache-manifest.36251efdd13b59394746870c5559c9e3.js",
-    "service-worker.js": "/sik_music_2020/service-worker.js",
-    "static/css/main.a8d4e993.chunk.css.map": "/sik_music_2020/static/css/main.a8d4e993.chunk.css.map",
-    "static/js/2.91194b7e.chunk.js.LICENSE.txt": "/sik_music_2020/static/js/2.91194b7e.chunk.js.LICENSE.txt"
+    "main.css": "/DavidYoonsik/sik_music_2020/static/css/main.a8d4e993.chunk.css",
+    "main.js": "/DavidYoonsik/sik_music_2020/static/js/main.d415c174.chunk.js",
+    "main.js.map": "/DavidYoonsik/sik_music_2020/static/js/main.d415c174.chunk.js.map",
+    "runtime-main.js": "/DavidYoonsik/sik_music_2020/static/js/runtime-main.841a449f.js",
+    "runtime-main.js.map": "/DavidYoonsik/sik_music_2020/static/js/runtime-main.841a449f.js.map",
+    "static/js/2.91194b7e.chunk.js": "/DavidYoonsik/sik_music_2020/static/js/2.91194b7e.chunk.js",
+    "static/js/2.91194b7e.chunk.js.map": "/DavidYoonsik/sik_music_2020/static/js/2.91194b7e.chunk.js.map",
+    "index.html": "/DavidYoonsik/sik_music_2020/index.html",
+    "precache-manifest.f28a6da50864a41a740ea0ca3703420a.js": "/DavidYoonsik/sik_music_2020/precache-manifest.f28a6da50864a41a740ea0ca3703420a.js",
+    "service-worker.js": "/DavidYoonsik/sik_music_2020/service-worker.js",
+    "static/css/main.a8d4e993.chunk.css.map": "/DavidYoonsik/sik_music_2020/static/css/main.a8d4e993.chunk.css.map",
+    "static/js/2.91194b7e.chunk.js.LICENSE.txt": "/DavidYoonsik/sik_music_2020/static/js/2.91194b7e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6351956d.js",
+    "static/js/runtime-main.841a449f.js",
     "static/js/2.91194b7e.chunk.js",
     "static/css/main.a8d4e993.chunk.css",
     "static/js/main.d415c174.chunk.js"
